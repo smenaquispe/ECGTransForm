@@ -8,7 +8,7 @@ Our proposed model, ECGTransForm, is a deep learning framework for ECG arrhythmi
 
 
 ## Datasets
-We used two public datasets in this study (Download our preprocessed version of the datasets from [Google Drive](https://drive.google.com/file/d/1eZ7NS7mED2ZCU2YDbeWMmFAc2TsPsX0E/view?usp=sharing)):
+We used two public datasets in this study (Download our preprocessed version of the datasets from [Google Drive](https://drive.google.com/drive/folders/1hnzoYfipi9xqDJfc2R0hfLAcon6k71XZ)):
 - [MIT-BIH](https://www.physionet.org/content/mitdb/1.0.0/)
 - [PTB](https://physionet.org/content/ptbdb/1.0.0/)
 
