@@ -1,4 +1,3 @@
-Aquí tienes una versión editada del `README.md` con la información que proporcionaste, manteniendo el estilo del repositorio original y añadiendo tus aportes de forma clara y profesional:
 
 ---
 
@@ -19,6 +18,9 @@ Este trabajo hace uso del dataset **MIT-BIH Arrhythmia Database** para realizar 
 
 🔗 Puedes revisar la ejecución de este proyecto en Google Colab en el siguiente enlace:
 **[Colab Link - *\[por agregar\]*](#)**
+
+
+A partir de este proyecto iniciaré con mi investigación para la reducción de la dimensionalidad
 
 ---
 
