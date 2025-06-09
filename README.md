@@ -61,9 +61,11 @@ There are two configuration files:
 
 Esta sección muestra capturas de pantalla y resultados obtenidos durante la ejecución del modelo en Colab con el dataset **MIT-BIH**:
 
-📸 **Imágenes de la ejecución:**
-*(Agrega aquí tus imágenes más adelante)*
 
+![alt text](image-1.png)
+Hice la clonación del proyecto
+
+![alt text](image.png)
 ---
 
 ## Citation:
