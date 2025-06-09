@@ -17,7 +17,7 @@ Modificado y ejecutado por **Sergio Sebastian S. Mena Quispe**, alumno de la car
 Este trabajo hace uso del dataset **MIT-BIH Arrhythmia Database** para realizar pruebas del modelo.
 
 🔗 Puedes revisar la ejecución de este proyecto en Google Colab en el siguiente enlace:
-**[Colab Link - *\[por agregar\]*](#)**
+**[Colab Link](https://colab.research.google.com/drive/1ZaUJ1D5DxTEj_tMKqrW8PFWOZdBnBI9u?usp=sharing)**
 
 
 A partir de este proyecto iniciaré con mi investigación para la reducción de la dimensionalidad
@@ -63,9 +63,17 @@ Esta sección muestra capturas de pantalla y resultados obtenidos durante la eje
 
 
 ![alt text](image-1.png)
-Hice la clonación del proyecto
+Hice la clonación del proyecto. Luego agregue 
 
 ![alt text](image.png)
+Y luego le di inicio al script de entrenamiento
+
+![alt text](image-2.png)
+Tras 60 épocas se logró una precisión del 98%
+
+
+Con una ejecicón 1 hora y 33 minutos para 60 épocas en el entorno de colab
+
 ---
 
 ## Citation:
